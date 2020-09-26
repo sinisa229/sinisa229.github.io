@@ -6,5 +6,6 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
 https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html
+https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html
 https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html
 https://aws.amazon.com/fsx/lustre/pricing/
