@@ -4,3 +4,4 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
 https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html
 https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
 https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
