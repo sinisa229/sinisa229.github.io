@@ -1,3 +1,4 @@
 https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html
 https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
+https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html
