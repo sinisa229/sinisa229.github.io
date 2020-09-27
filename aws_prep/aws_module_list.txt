@@ -7,5 +7,6 @@ https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html
 https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html
 https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html
 https://aws.amazon.com/fsx/lustre/pricing/
