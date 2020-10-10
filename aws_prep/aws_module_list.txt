@@ -12,5 +12,6 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-sc
 https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
 https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/enhanced-networking-ena.html
+https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html
 https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html
 https://aws.amazon.com/fsx/lustre/pricing/
