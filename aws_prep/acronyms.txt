@@ -1,2 +1,3 @@
 ARN - Amazon resource name
 MFA - Multi factor authentication
+RAM - Resource access manager
