@@ -13,6 +13,7 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.
 https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/enhanced-networking-ena.html
 https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html
+https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html
 https://docs.aws.amazon.com/ram/latest/userguide/what-is.html
 https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html
 https://aws.amazon.com/fsx/lustre/pricing/
