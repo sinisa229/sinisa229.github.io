@@ -1,3 +1,4 @@
-ARN - Amazon resource name
-MFA - Multi factor authentication
-RAM - Resource access manager
+ARN - Amazon Resource Name
+MFA - Multi Factor Authentication
+RAM - Resource Access Manager
+DMS - Database Migration Service
