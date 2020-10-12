@@ -16,6 +16,7 @@ https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.htm
 https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html
 https://docs.aws.amazon.com/ram/latest/userguide/what-is.html
 https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html
+https://aws.amazon.com/directoryservice/
 https://aws.amazon.com/fsx/lustre/pricing/
 DataSync 
 https://aws.amazon.com/blogs/storage/migrating-storage-with-aws-datasync/
