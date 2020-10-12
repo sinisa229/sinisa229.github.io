@@ -19,5 +19,6 @@ https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html
 https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html
 https://aws.amazon.com/directoryservice/
 https://aws.amazon.com/fsx/lustre/pricing/
+https://docs.aws.amazon.com/amazonglacier/latest/dev/vault-lock.html
 DataSync 
 https://aws.amazon.com/blogs/storage/migrating-storage-with-aws-datasync/
