@@ -11,6 +11,8 @@ https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
 https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html
 https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-signed-cookies.html
+https://aws.amazon.com/blogs/aws/new-amazon-cloudfront-signed-cookies-for-private-content/
 https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/enhanced-networking-ena.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Hibernate.html
