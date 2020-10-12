@@ -17,3 +17,4 @@ https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html
 https://docs.aws.amazon.com/ram/latest/userguide/what-is.html
 https://docs.aws.amazon.com/fsx/latest/WindowsGuide/what-is.html
 https://aws.amazon.com/fsx/lustre/pricing/
+DataSync
