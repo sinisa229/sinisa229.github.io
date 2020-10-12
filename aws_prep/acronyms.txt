@@ -2,3 +2,4 @@ ARN - Amazon Resource Name
 MFA - Multi Factor Authentication
 RAM - Resource Access Manager
 DMS - Database Migration Service
+OAI - Origin Access Identity (Cloudfront)
