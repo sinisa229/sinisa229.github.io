@@ -24,6 +24,7 @@ https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html
 https://aws.amazon.com/directoryservice/
 https://docs.aws.amazon.com/directoryservice/latest/admin-guide/what_is.html
+https://docs.aws.amazon.com/opsworks/latest/userguide/welcome.html
 https://aws.amazon.com/fsx/lustre/pricing/
 https://docs.aws.amazon.com/amazonglacier/latest/dev/vault-lock.html
 DataSync 
