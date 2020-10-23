@@ -5,3 +5,4 @@ DMS - Database Migration Service
 OAI - Origin Access Identity (Cloudfront)
 KMS - Key Management Service
 SCP - Service Control Policy
+RAM - Resource Access Management
